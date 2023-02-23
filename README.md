@@ -1,5 +1,4 @@
-!(https://github.com/sfowzia1001/gs_player/blob/main/media/gstreamer_player.jpg?raw=true "gs_player")
-<a href="url"><img src="https://github.com/sfowzia1001/gs_player/blob/main/media/gstreamer_player.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/sfowzia1001/gs_player/blob/main/media/gstreamer_player.jpg" align="left" height="100" width="100" ></a>
 
 # Gstreamer Player
 
