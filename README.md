@@ -6,7 +6,7 @@ This program uses the GStreamer library to play a video file from a path specifi
 
 # Instructions
 
-- Clone this repository in a desired location with `git clone https://github.com/sfowzia1001/gs_player`
+- Clone this repository in a desired location with `git clone https://github.com/sfowzia/gs_player`
 - Change directory into gs_player with `cd gs_player`
 - Make a build directory with `mkdir build && cd build`
 - Compile with CMake with `cmake ..`
